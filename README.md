@@ -122,13 +122,14 @@ Além dessas métricas de laboratório, o INP deve ser acompanhado em produção
 
 ## Entrega
 
-Antes de gerar o PDF para o portal da FIAP, preencha:
+Dados finais para envio pelo portal da FIAP:
 
 - Integrante: `RM367574 — João Victor Deziderio Chinelato`
-- Repositório público: `A DEFINIR`
-- Site publicado: `A DEFINIR`
-- API pública: `A DEFINIR/api/words`
-- Relatório Lighthouse: `A GERAR APÓS O DEPLOY`
+- Repositório público: [github.com/Dleize/Front-end-Engineering](https://github.com/Dleize/Front-end-Engineering)
+- Site publicado: [lexora-vocabulary.onrender.com](https://lexora-vocabulary.onrender.com)
+- API pública: [lexora-vocabulary.onrender.com/api/words](https://lexora-vocabulary.onrender.com/api/words)
+- Relatório Lighthouse: [visualizar relatório completo](docs/lighthouse-report.report.html)
+- PDF de entrega: [visualizar PDF](docs/entrega-fiap-lexora.pdf)
 
 ## Licença
 
