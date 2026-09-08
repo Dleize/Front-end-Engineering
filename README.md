@@ -118,12 +118,13 @@ Além dessas métricas de laboratório, o INP deve ser acompanhado em produção
 
 ## Integrantes
 
-- João V. (substitua pelo nome completo antes da entrega)
+- RM367574 — João Victor Deziderio Chinelato
 
 ## Entrega
 
 Antes de gerar o PDF para o portal da FIAP, preencha:
 
+- Integrante: `RM367574 — João Victor Deziderio Chinelato`
 - Repositório público: `A DEFINIR`
 - Site publicado: `A DEFINIR`
 - API pública: `A DEFINIR/api/words`
