@@ -80,7 +80,7 @@ Endpoints disponíveis:
 
 ## Deploy no Render
 
-O arquivo `render.yaml` configura a aplicação e a API como um único Web Service. A API continua publicamente acessível em `/api/words`.
+O arquivo `render.yaml` configura a aplicação e a API como um único Web Service. A API continua publicamente acessível em `/api/words`. Durante o build, o Render instala também as dependências de desenvolvimento necessárias para executar o Vite; o servidor continua rodando em modo de produção.
 
 1. Publique este projeto em um repositório público no GitHub.
 2. No Render, escolha **New > Blueprint** e conecte o repositório.
