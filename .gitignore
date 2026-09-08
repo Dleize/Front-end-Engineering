@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.DS_Store
+*.log
+.lighthouseci/
+chrome-*-profile/
+chrome-profile/
+pdf-page.png
+tarefa-FE-10AOJR.pdf
+extract_pdf_text.py
